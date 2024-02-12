@@ -1,0 +1,25 @@
+Script para criar a tabela Projetos:
+
+CREATE TABLE IF NOT EXISTS Projetos(
+                id SERIAL PRIMARY KEY,
+                titulo varchar(60) NOT NULL,
+                lider varchar(30) NOT NULL,
+                tipo varchar(30) NOT NULL,
+                data_entrega DATE NOT NULL,
+                descricao varchar(300) NOT NULL,
+                orcamento float(24) NOT NULL,
+                cpf_cliente varchar(17),
+                status varchar(15),
+                FOREIGN KEY (cpf_cliente) REFERENCES Clientes(cpf_cliente))
+
+############################################################################
+Script para criar a tabela Clientes:
+
+CREATE TABLE IF NOT EXISTS Clientes(
+                cpf_cliente varchar(17) PRIMARY KEY,
+                nome varchar(30) NOT NULL,
+                data_nascimento DATE NOT NULL,
+                telefone varchar(20) NOT NULL,
+                email varchar(30) NOT NULL)
+
+############################################################################
