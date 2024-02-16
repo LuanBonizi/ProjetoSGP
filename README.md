@@ -6,5 +6,9 @@ projetos e clientes a fim de fazer uma simulção bem básica de como a empresa 
 as bibliotecas utilizadas estão no arquivo "requirements.txt", basta executar o comando `pip install -r requirements.txt`
 no ambiente virtual e executar o main.py
 
+Login do sistema:
+  -E-mail: sgp@gmail.com
+  -Senha: 1234
+
 As interfaces foram criadas a partir do Figma, então utilizei um programa para gerar o código dessas interfaces. Deixo meus créditos
 ao criador do programa, ParthJardhav -> https://github.com/ParthJadhav/Tkinter-Designer
