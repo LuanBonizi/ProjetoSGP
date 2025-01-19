@@ -21,9 +21,29 @@ na pasta principal do projeto quando estiver em um ambiente virtual. Com isso, t
 
 # Algumas telas do Sistema
 
-![login](https://github.com/user-attachments/assets/78cc3edf-8292-4ab0-8be4-c5da79413d1b) ![cadastroprojeto](https://github.com/user-attachments/assets/483ac158-3e65-4657-b36b-d66030e90f7f)
+Tela de login:
+
+![login](https://github.com/user-attachments/assets/78cc3edf-8292-4ab0-8be4-c5da79413d1b) 
+
+Tela de cadastro de projetos:
+
+![cadastroprojeto](https://github.com/user-attachments/assets/483ac158-3e65-4657-b36b-d66030e90f7f)
+
+Tela de cadastro de clientes:
+
 ![cadastrocliente](https://github.com/user-attachments/assets/9caec390-705e-4cac-a687-c65cd51b2eb3)
+
+Tela dos projetos cadastrados:
+
 ![projetossistema](https://github.com/user-attachments/assets/88d2ce50-5a0c-4190-8442-86ed61310055)
+
+Tela dos clientes cadastrados:
+
 ![clientesistema](https://github.com/user-attachments/assets/de7e1874-984b-47a7-8bcb-ff2f9908f7bf)
+
+Tela principal:
+
 ![telaprincipal](https://github.com/user-attachments/assets/4a86b9c3-df3b-4f3f-a234-cc4cc415e56b)
+
+Tela de impressão de informações de um projeto específico:
 ![impressaoprojeto](https://github.com/user-attachments/assets/d53c3c82-1d4a-45a6-b431-7939d3928606)
